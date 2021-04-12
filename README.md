@@ -21,7 +21,8 @@ Game Rules:
 
 7.Dealer will hit until his/her cards total 17 or higher.
 
-You start the game with 100 chips try to earn as much as you can.
+You start the game with 100 chips try to earn as much as you can!!!
+
 Winning a round earns twice the bet.
 
 
