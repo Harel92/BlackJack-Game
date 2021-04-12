@@ -26,4 +26,4 @@ You start the game with 100 chips try to earn as much as you can!!!
 Winning a round earns twice the bet.
 
 
-RUN THE GAME with main.py
+###RUN THE GAME with main.py
